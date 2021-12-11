@@ -24,6 +24,7 @@ The technology stack for this project is composed of the following:
 * Apollo: https://apollo.iat.sfu.ca/
 * Deep visualizer: https://github.com/msieg/deep-music-visualizer
 * an implementation of 3D Ken Burns Effect from a Single Image using PyTorch: https://pythonrepo.com/repo/sniklaus-3d-ken-burns-python-deep-learning
+* SineGan: https://github.com/dvschultz/ai/blob/master/SinGAN.ipynb
 
 # Note:
 Original videos for bassy time traveler were not included in the repo because it exceeds the GitHub allowed file size and therefore might affect the import on the scene.
